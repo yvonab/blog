@@ -7,11 +7,11 @@ hero_image: "/content/images/img_1044.jpg"
 ---
 I discovered the idea of Steward ownership through my student initiative - PPE Encounters. We hold events for students to engage with experts from different backgrounds, bringing in various ideas and opinions.
 
-We invited guests from [**Purpose Economy **](https://purpose-economy.org/en/)to talk about their work and the change they are trying to bring about in our economy.
+We invited guests from [**Purpose economy **]()to talk about their work and the change they are trying to bring about in our economy.
 
 Steward ownership is the idea that a company is owned by itself, and its profits are either reinvested or donated. This shifts the company’s motivation from profit-making (as an end in itself) to focus on its mission.
 
-There are many companies that follow this model, for example Ecosia, Ziel, and many in Denmark.
+There are many companies that follow this model, for example Ecosia, Zeiss, and many more.
 
 Recognised benefits:
 

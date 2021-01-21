@@ -5,7 +5,7 @@ author: ''
 hero_image: "/content/images/img_1044.jpg"
 
 ---
-I discovered the idea of Steward ownership through my student initiative - PPE Encounters. We hold events for students to engage with experts from different backgrounds, bringing in various ideas and opinions.
+I came across Steward ownership through my student initiative - PPE Encounters. We hold events for students to engage with experts from different backgrounds, bringing in various ideas and opinions.
 
 We invited guests from [**Purpose economy **]()to talk about their work and the change they are trying to bring about in our economy.
 

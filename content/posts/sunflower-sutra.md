@@ -7,7 +7,7 @@ hero_image: "/content/images/the-great-plastic-wave-2020-squarergb.jpg"
 ---
 Artwork credits: [Nic Mac](https://www.nicmacillustration.com/thegreatplasticwave)
 
-The following essay is one I wrote during my International Relations course in university. It examines India’s plastic waste problem through the lens of realist and post-colonial theories.
+The following essay is one I wrote during my International Relations course in university. It examines India’s plastic waste problem through the lenses of realist and post-colonial theories.
 
 Up until 1947, India was a British colony. 73 years later, it is a rising global power, with a population of about 1.3 billion (Trading Economics, 2020). Its rapid population growth, along with globalisation and industrialisation, has led to many problems, such as urbanisation, increasing consumption and, therefore, increasing waste production. Plastic has become an important aspect of 21st century life - it is cheap, durable and can replace heavier materials in packaging, construction, and consumer goods. However, these exact properties also make plastic difficult to recycle, impossible to naturally decompose in soil and harmful to burn/incinerate. This has detrimental effects on the environment and human health. India’s plastic consumption has increased exponentially: by 890% from 1990 to 2014 (Banerjee et al., 2014). Although India has a surprisingly high recycling rate of an estimated 47% (Mutha et al., 2005), the other methods used (incineration and landfilling) are inefficient. Tonnes of undisposed plastic waste block rivers, litter India’s streets and create man-made waste mountains.
 

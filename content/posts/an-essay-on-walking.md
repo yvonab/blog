@@ -2,7 +2,7 @@
 date: 2021-01-20T11:43:31Z
 title: Steward Ownership
 author: ''
-hero_image: "/content/images/img_1044.jpg"
+hero_image: "/content/images/ren-ran-bBiuSdck8tU-unsplash.jpg"
 
 ---
 I came across Steward ownership through my student initiative - PPE Encounters. We hold events for students to engage with experts from different backgrounds, bringing in various ideas and opinions.

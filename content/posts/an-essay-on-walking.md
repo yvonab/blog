@@ -11,9 +11,9 @@ We invited guests from [**Purpose economy**]() to talk about their work and the 
 
 ## Steward ownership is the idea that a company is owned by itself, and its profits are either reinvested or donated. This shifts the company’s motivation from profit-making (as an end in itself) to focus on its mission.
 
-## There are many companies that follow this model, for example Ecosia, Zeiss, and many more.
+###### There are many companies that follow this model, for example Ecosia, Zeiss, and many more.
 
-Recognised benefits:
+###### Recognised benefits:
 
 * Higher company survival rate and crisis resilience
 * Better profitability, higher wages
